@@ -1,8 +1,6 @@
-To install linux/MacOS/Windows:
-**git clone https://github.com/ximavus/github**
 # When installed do:
 sh run.sh
-on linux/MacOS.
+<br/>on linux/MacOS.
 # Or do:
-run.sh
-INCOMPLETE
+run.sh<br/>
+on Windows
