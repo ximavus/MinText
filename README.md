@@ -8,3 +8,6 @@ After that you need to add the mod and the forge loader in the .minecraft/mods/(
 When you open the version of minecraft with the RaspberryJamMod/RaspberryJuice run the main.py file and BAM! You have python inside minecraft!
 # Stuff you can do with it
 You can basically control your computer with the os library and even open a browser or even use the mcpi library inside minecraft`s chat and because you can put a IP address and the RaspberryJamMod/RaspberryJuice port (defaulting to 4711) you can control e.g. LAN world from a diffrent world IN FULLSCREEN!
+# Notes
+instead of newline you need to use a pause symbol and a space after it.
+also input() doesn`t work in the chat :P
